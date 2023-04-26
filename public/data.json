@@ -1,0 +1,191 @@
+[
+  {
+    "id": "1",
+    "name": "Sesam",
+    "brand": "Ritter-Sport",
+    "currency": "EUR",
+    "prices": [
+      {
+        "price": 2.09,
+        "shop": "Ritter-Sport",
+        "link": "https://www.ritter-sport.com/de/produkte/sesam",
+        "unit": "g",
+        "amount": 100
+      }
+    ],
+    "nutrition": {
+      "fat": { "total": 38, "saturated": 19 },
+      "carbohydrates": { "total": 42, "sugar": 40 },
+      "protein": 11,
+      "salt": 0.04
+    }
+  },
+  {
+    "id": "2",
+    "name": "Sesam",
+    "brand": "Ritter-Sport",
+    "currency": "EUR",
+    "prices": [
+      {
+        "price": 2.01,
+        "shop": "Infinite Sweet",
+        "link": "https://www.ritter-sport.com/de/produkte/sesam",
+        "unit": "g",
+        "amount": 100
+      }
+    ],
+    "nutrition": {
+      "fat": { "total": 38, "saturated": 19 },
+      "carbohydrates": { "total": 42, "sugar": 40 },
+      "protein": 11,
+      "salt": 0.04
+    }
+  },
+  {
+    "id": "3",
+    "name": "Dark Chocolate",
+    "brand": "Ritter-Sport",
+    "currency": "EUR",
+    "prices": [
+      {
+        "price": 3.09,
+        "shop": "Ritter-Sport",
+        "link": "https://www.ritter-sport.com/de/produkte/sesam",
+        "unit": "g",
+        "amount": 100
+      }
+    ],
+    "nutrition": {
+      "fat": { "total": 38, "saturated": 19 },
+      "carbohydrates": { "total": 42, "sugar": 40 },
+      "protein": 11,
+      "salt": 0.04
+    }
+  },
+  {
+    "id": "4",
+    "name": "Dark Chocolate",
+    "brand": "Ritter-Sport",
+    "currency": "EUR",
+    "prices": [
+      {
+        "price": 3.1,
+        "shop": "Ritter-Sport",
+        "link": "https://www.ritter-sport.com/de/produkte/sesam",
+        "unit": "g",
+        "amount": 100
+      }
+    ],
+    "nutrition": {
+      "fat": { "total": 38, "saturated": 19 },
+      "carbohydrates": { "total": 42, "sugar": 40 },
+      "protein": 11,
+      "salt": 0.04
+    }
+  },
+  {
+    "id": "5",
+    "name": "Trufle temptation",
+    "brand": "Ritter-Sport",
+    "currency": "EUR",
+    "prices": [
+      {
+        "price": 2.09,
+        "shop": "Ritter-Sport",
+        "link": "https://www.ritter-sport.com/de/produkte/sesam",
+        "unit": "g",
+        "amount": 100
+      }
+    ],
+    "nutrition": {
+      "fat": { "total": 38, "saturated": 19 },
+      "carbohydrates": { "total": 42, "sugar": 40 },
+      "protein": 11,
+      "salt": 0.04
+    }
+  },
+  {
+    "id": "6",
+    "name": "Trufle temptation",
+    "brand": "Ritter-Sport",
+    "currency": "EUR",
+    "prices": [
+      {
+        "price": 2.08,
+        "shop": "Ritter-Sport",
+        "link": "https://www.ritter-sport.com/de/produkte/sesam",
+        "unit": "g",
+        "amount": 100
+      }
+    ],
+    "nutrition": {
+      "fat": { "total": 38, "saturated": 19 },
+      "carbohydrates": { "total": 42, "sugar": 40 },
+      "protein": 11,
+      "salt": 0.04
+    }
+  },
+  {
+    "id": "7",
+    "name": "Trufle temptation",
+    "brand": "milka",
+    "currency": "EUR",
+    "prices": [
+      {
+        "price": 2.12,
+        "shop": "Ritter-Sport",
+        "link": "https://www.ritter-sport.com/de/produkte/sesam",
+        "unit": "g",
+        "amount": 100
+      }
+    ],
+    "nutrition": {
+      "fat": { "total": 38, "saturated": 19 },
+      "carbohydrates": { "total": 42, "sugar": 40 },
+      "protein": 11,
+      "salt": 0.04
+    }
+  },
+  {
+    "id": "8",
+    "name": "Trufle temptation",
+    "brand": "milka",
+    "currency": "EUR",
+    "prices": [
+      {
+        "price": 2.09,
+        "shop": "Ritter-Sport",
+        "link": "https://www.ritter-sport.com/de/produkte/sesam",
+        "unit": "g",
+        "amount": 100
+      }
+    ],
+    "nutrition": {
+      "fat": { "total": 38, "saturated": 19 },
+      "carbohydrates": { "total": 42, "sugar": 40 },
+      "protein": 11,
+      "salt": 0.04
+    }
+  },
+  {
+    "id": "9",
+    "name": "Dark Chocolate",
+    "brand": "milka",
+    "currency": "EUR",
+    "prices": [
+      {
+        "price": 2.09,
+        "shop": "Ritter-Sport",
+        "link": "https://www.ritter-sport.com/de/produkte/sesam",
+        "unit": "g",
+        "amount": 100
+      }
+    ],
+    "nutrition": {
+      "fat": { "total": 38, "saturated": 19 },
+      "carbohydrates": { "total": 42, "sugar": 40 },
+      "protein": 11,
+      "salt": 0.04
+    }
+  }
+]
